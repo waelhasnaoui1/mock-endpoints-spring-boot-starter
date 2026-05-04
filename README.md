@@ -155,11 +155,7 @@ mock:
       use-examples: true
 ```
 
-## Demo
 
-A runnable sample is available here:
-
-[examples/demo-app/README.md](D:\Mock Endpoints Spring Boot Starter\examples\demo-app\README.md:1)
 
 ## Use case
 
